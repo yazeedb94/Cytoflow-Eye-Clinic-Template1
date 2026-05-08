@@ -1,13 +1,13 @@
 const translations = {
     ar: {
         title: "مركز cytoflow لطب وجراحة العيون",
-        subtitle: "cytoflow",
+        subtitle: "د. مراد",
         nav_home: "الرئيسية",
         nav_about: "عن العيادة",
         nav_services: "خدماتنا",
         nav_contact: "اتصل بنا",
         hero_heading: "رؤية واضحة، لحياة أفضل",
-        hero_subheading: "نقدم لكم أحدث التقنيات وأفضل الرعاية الطبية لعيونكم في مركز دار العيون بإشراف الدكتور عادل المومني.",
+        hero_subheading: "نقدم لكم أحدث التقنيات وأفضل الرعاية الطبية لعيونكم في مركز دار العيون بإشراف الدكتور مراد.",
         btn_book: "احجز موعدك الآن",
         btn_contact: "تواصل معنا",
         about_heading: "عن الدكتور مراد",
@@ -42,7 +42,7 @@ const translations = {
     },
     en: {
         title: "cytoflow",
-        subtitle: "cytoflow",
+        subtitle: "Dr. Morad",
         nav_home: "Home",
         nav_about: "About",
         nav_services: "Services",
